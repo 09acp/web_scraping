@@ -1,0 +1,18 @@
+
+https://learn.datacamp.com/courses/all
+
+course list xpath
+/html/body/div/section[2]
+
+title xpath
+/html/body/div/section[2]/div/div/article[1]/div/a/div[2]/h4
+/html/body/div/section[2]/div/div/article[1]/div/a/div[2]/h4
+
+url = https://learn.datacamp.com/search?q=courses
+
+course list xpath
+//*[@id="courses"]/div
+
+url xpath
+//*[@id="courses"]/div/article[1]/a
+
