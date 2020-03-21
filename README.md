@@ -8,11 +8,11 @@ Alex Papa 06/03/2020
   - [x] save body to html
 
 #### __Digicom__
-- [x] [digicomSpider_description](https://github.com/09acp/web_scraping/tree/master/digicomSpider_description)
+- [x] [digicomSpider_description](https://github.com/09acp/web_scraping/tree/master/digicomSpider_description/digiSpider)
   - [x] save description to csv
 
 #### __SNP500 Tickers__
-- [x] [tickerSpider_snp500](https://github.com/09acp/web_scraping/tree/master/tickerSpider_snp500)
+- [x] [tickerSpider_snp500](https://github.com/09acp/web_scraping/blob/master/tickerSpider_snp500/tickerSpider_snp500.ipynb)
   **use of nth-of-type(n) selection for tag td #1 was crucial**
   - [x] save description to csv
 
